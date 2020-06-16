@@ -37,4 +37,4 @@ Observe the responses | POST, GET, PUT, and DELETE.
 
 ---
 
-![image]width="50"(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png)

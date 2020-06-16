@@ -27,7 +27,7 @@ RESTful Web service
         > observe the responses.
 - [x] Using Postman tool
 
-First Header | Second Header
+Goal | Methods
 ------------ | -------------
 Send the requests to created | POST, GET, PUT, and DELETE.
 Observe the responses | POST, GET, PUT, and DELETE.

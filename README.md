@@ -2,10 +2,10 @@
 ===
 
 ## PARTICIPATED
-Daniel - 	[Developer]
-Tadas - [Analyst]
-Vainius - [QA (Quality assurance specialist)]
-Karolis - [Testuotojas]
+1.Daniel - 	[Developer]
+2.Tadas - [Analyst]
+3.Vainius - [QA (Quality assurance specialist)]
+4.Karolis - [Testuotojas]
 
 tag
 

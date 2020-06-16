@@ -1,9 +1,9 @@
 **WEB SERVICES - FINAL PROJECT**
 ===
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/200px-IntelliJ_IDEA_Logo.svg.png)
-
 ## ABOUT IntelliJ IDEA 2020.1.1
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/200px-IntelliJ_IDEA_Logo.svg.png)
 
 ### Is IntelliJ idea good?
 

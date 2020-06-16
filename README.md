@@ -7,14 +7,25 @@
 3. Vainius - [QA (Quality assurance specialist)](https://www.signalhire.com/job-descriptions/quality-assurance-(qa)-specialist-job-description)
 4. Karolis - [Tester](https://www.businessnewsdaily.com/10761-how-to-become-a-software-tester.html)
 
-## Sub Header
+## AIM
+
+RESTful Web service
+- [x] Assign different roles to each team member
+- [x] Use online team board like Trello 
+- [x] Create new project in GitHub
+- [x] Use any DBMS to create and manage your database
+- [x] Create fully functional RESTful Web Service:
+      *cacheable
+       *stateless
+         *conforming to level 4 of Richardson Maturity Model
+- [x] Request a review
+- [x] Assign different roles to each team member
+- [x] Commit fixes
+- [x] Request a review
+
 ---
 
 
-RESTful Web service
-- [x] Examine code
-- [ ] Commit fixes
-- [ ] Request a review
 
 
 **Labas**

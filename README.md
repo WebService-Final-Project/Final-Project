@@ -1,4 +1,4 @@
-# Final-Project <h1>
+Final-Project <h1>
 ===
 
 # PARTICIPATED <h2>

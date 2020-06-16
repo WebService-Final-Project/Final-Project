@@ -9,24 +9,46 @@ import java.util.List;
 
 @Entity
 @Table(name="CLIENT")
-public class Client implements Serializable { // Garage
+public class Client implements Serializable {
 
 
+    public Long getId() {
+        return id;
+    }
 
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     public Long id;
     public String name;
-    public String adress;
+    public String address;
 
     public Client() {
     }
 
 
-    public Client(String name,String adress) {
+    public Client(String name,String address) {
         this.name = name;
-        this.adress = adress;
+        this.address = address;
     }
 
     //@JsonManagedReference
@@ -40,7 +62,7 @@ public class Client implements Serializable { // Garage
         return "Client{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
-                ", adress='" + adress + '\'' +
+                ", adress='" + address + '\'' +
                 ", Furnitures=" + Furnitures +
                 '}';
     }

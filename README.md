@@ -3,6 +3,20 @@
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/200px-IntelliJ_IDEA_Logo.svg.png)
 
+## ABOUT IntelliJ IDEA 2020.1.1
+
+### Is IntelliJ idea good?
+
+*“Intellij is a great JAVA IDEA that helps me to developer better code” Pros: Not only a great JAVA IDEA but also Intellij has support for other program languages like php, html, javascript. ... Reasons for Switching to IntelliJ IDEA: Intellij is easier to use and uses less memory making the user experience better.*
+
+### What is IntelliJ idea used for?
+
+*IntelliJ IDEA is an integrated development environment (IDE) written in Java for developing computer software. It is developed by JetBrains (formerly known as IntelliJ), and is available as an Apache 2 Licensed community edition, and in a proprietary commercial edition. Both can be used for commercial development.*
+
+### Is IntelliJ idea free?
+
+*As of version 9.0, IntelliJ IDEA is provided in two editions: Community Edition: open source and available free of charge. The Community Edition is covered by the Apache 2.0 license, and is built together with the open community around jetbrains.org.*
+
 ## PARTICIPATED
 
 1. Daniel - 	[Developer](https://www.greatsampleresume.com/job-responsibilities/it-developer-responsibilities/)

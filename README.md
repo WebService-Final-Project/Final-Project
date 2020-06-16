@@ -1,8 +1,7 @@
 Final-Project
 ===
 
-#Final-Project
-
+#
 PARTICIPATED
 
 Sub Header

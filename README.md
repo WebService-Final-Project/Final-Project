@@ -37,6 +37,6 @@ Observe the responses | POST, GET, PUT, and DELETE.
 
 - [x] RapidAPI: API Marketplace
 
---
+---
 
 

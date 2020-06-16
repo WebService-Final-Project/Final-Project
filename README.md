@@ -25,7 +25,13 @@ RESTful Web service
       > explore your API
        > send the requests
         > observe the responses.
-- [x] Commit fixes
+- [x] Using Postman tool
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 - [x] Request a review
 
 ---

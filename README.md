@@ -29,8 +29,8 @@ RESTful Web service
 
 First Header | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+send the requests to created | POST, GET, PUT, and DELETE.
+observe the responses | POST, GET, PUT, and DELETE.
 
 - [x] Request a review
 

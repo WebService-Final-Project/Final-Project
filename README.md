@@ -1,7 +1,7 @@
-Final-Project <h1>
+Final-Project
 ===
 
-# PARTICIPATED <h2>
+# PARTICIPATED <h3>
   
 tag
 

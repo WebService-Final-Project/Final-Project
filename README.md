@@ -19,8 +19,12 @@ RESTful Web service
       * cacheable
        * stateless
          * conforming to level 4 of Richardson Maturity Model
-- [x] Request a review
-- [x] Assign different roles to each team member
+- [x] Get OpenAPI(json format)
+- [x] Using Swagger Editor 
+
+      > explore your API
+       > send the requests
+        > observe the responses.
 - [x] Commit fixes
 - [x] Request a review
 

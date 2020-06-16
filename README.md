@@ -1,6 +1,8 @@
 **WEB SERVICES - FINAL PROJECT**
 ===
 
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/200px-IntelliJ_IDEA_Logo.svg.png)
+
 ## PARTICIPATED
 
 1. Daniel - 	[Developer](https://www.greatsampleresume.com/job-responsibilities/it-developer-responsibilities/)
@@ -37,4 +39,4 @@ Observe the responses | POST, GET, PUT, and DELETE.
 
 ---
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/200px-IntelliJ_IDEA_Logo.svg.png)
+

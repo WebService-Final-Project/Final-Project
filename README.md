@@ -29,13 +29,10 @@ RESTful Web service
 - [x] Using Postman tool
 
 |Goal | Methods|
------------- | -------------
+|------------ | -------------|
 Send the requests to created | POST, GET, PUT, and DELETE.
 Observe the responses | POST, GET, PUT, and DELETE.
 
 - [x] RapidAPI: API Marketplace
 
 ---
-
-
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png)

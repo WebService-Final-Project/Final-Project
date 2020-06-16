@@ -15,9 +15,9 @@ RESTful Web service
 - [x] Create new project in GitHub
 - [x] Use any DBMS to create and manage your database
 - [x] Create fully functional RESTful Web Service:
-      *cacheable
-       *stateless
-         *conforming to level 4 of Richardson Maturity Model
+      * cacheable
+       * stateless
+         * conforming to level 4 of Richardson Maturity Model
 - [x] Request a review
 - [x] Assign different roles to each team member
 - [x] Commit fixes

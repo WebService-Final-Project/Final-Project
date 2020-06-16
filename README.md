@@ -29,7 +29,7 @@ RESTful Web service
 - [x] Using Postman tool
 
 |Goal | Methods|
-|------------ | -------------|
+|------------ | -|
 Send the requests to created | POST, GET, PUT, and DELETE.
 Observe the responses | POST, GET, PUT, and DELETE.
 

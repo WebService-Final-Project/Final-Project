@@ -7,9 +7,7 @@
 3. Vainius - [QA (Quality assurance specialist)](https://www.signalhire.com/job-descriptions/quality-assurance-(qa)-specialist-job-description)
 4. Karolis - [Tester](https://www.businessnewsdaily.com/10761-how-to-become-a-software-tester.html)
 
-tag
-
-Sub Header
+## Sub Header
 ---
 
 

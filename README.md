@@ -29,10 +29,10 @@ RESTful Web service
 
 First Header | Second Header
 ------------ | -------------
-send the requests to created | POST, GET, PUT, and DELETE.
-observe the responses | POST, GET, PUT, and DELETE.
+Send the requests to created | POST, GET, PUT, and DELETE.
+Observe the responses | POST, GET, PUT, and DELETE.
 
-- [x] Request a review
+- [x] RapidAPI: API Marketplace
 
 ---
 

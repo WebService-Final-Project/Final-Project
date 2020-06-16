@@ -2,7 +2,11 @@
 ===
 
 ## PARTICIPATED
-  
+Daniel - 	[Developer]
+Tadas - [Analyst]
+Vainius - [QA (Quality assurance specialist)]
+Karolis - [Testuotojas]
+
 tag
 
 Sub Header

@@ -17,6 +17,9 @@
 
 *As of version 9.0, IntelliJ IDEA is provided in two editions: Community Edition: open source and available free of charge. The Community Edition is covered by the Apache 2.0 license, and is built together with the open community around jetbrains.org.*
 
+### More About
+
+[Spring Boot](https://blog.jetbrains.com/idea/2020/04/intellij-idea-2020-1-1/)
 
 ## Spring Boot 
 

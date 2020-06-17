@@ -28,7 +28,7 @@
 
 ## Maven
 
-![image](https://www.freelancinggig.com/blog/wp-content/uploads/2018/10/Apache-Maven-its-uses-640x360.jpeg)
+![image](https://linuxtips.us/wp-content/uploads/Apache-Maven-logo.jpeg)
 
 
 

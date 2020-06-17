@@ -30,6 +30,22 @@
 
 ![image](https://linuxtips.us/wp-content/uploads/Apache-Maven-logo.jpeg)
 
+### What is Spring Boot stands for?
+
+*Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. ... If you are looking for a quick reference, you can use the documentation index.*
+
+## Tomcat
+
+![image](https://nsfocusglobal.com/wp-content/uploads/2019/04/apachetomcat.jpg)
+
+### What is Tomcat?
+
+*Apache Tomcat is a long-lived, open source Java servlet container that implements several core Java enterprise specs, namely the Java Servlet, JavaServer Pages (JSP), and WebSockets APIs.*
+
+### More About
+
+[Tomcat](https://www.javaworld.com/article/3510460/what-is-apache-tomcat-the-original-java-servlet-container.html)
+
 
 
 ## PARTICIPATED

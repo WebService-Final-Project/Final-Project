@@ -26,13 +26,22 @@
 
 *Spring Boot is an open source Java-based framework used to create a micro Service. It is developed by Pivotal Team and is used to build stand-alone and production ready spring applications.*
 
+### More About
+
+[Spring Boot](https://spring.io/projects/spring-boot)
+
 ## Maven
 
 ![image](https://linuxtips.us/wp-content/uploads/Apache-Maven-logo.jpeg)
 
-### What is Spring Boot stands for?
+### What is Maven stands for?
 
 *Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. ... If you are looking for a quick reference, you can use the documentation index.*
+
+### More About
+
+[Maven](https://maven.apache.org/)
+
 
 ## Tomcat
 

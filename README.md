@@ -19,7 +19,7 @@
 
 ### More About
 
-[Spring Boot](https://blog.jetbrains.com/idea/2020/04/intellij-idea-2020-1-1/)
+[IntelliJ IDEA 2020.1.1](https://blog.jetbrains.com/idea/2020/04/intellij-idea-2020-1-1/)
 
 ## Spring Boot 
 

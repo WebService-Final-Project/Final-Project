@@ -17,7 +17,19 @@
 
 *As of version 9.0, IntelliJ IDEA is provided in two editions: Community Edition: open source and available free of charge. The Community Edition is covered by the Apache 2.0 license, and is built together with the open community around jetbrains.org.*
 
+
+## Spring Boot 
+
 ![image](https://4.bp.blogspot.com/-TevOgPVC2dE/WnILAnucRVI/AAAAAAAAGU4/Y0eg10SP5f4niLZAKex2EeRDvJkGfP7vgCPcBGAYYCw/s800/spring-boot.png)
+
+### What is Spring Boot stands for?
+
+*Spring Boot is an open source Java-based framework used to create a micro Service. It is developed by Pivotal Team and is used to build stand-alone and production ready spring applications.*
+
+## Maven
+
+![image](https://www.freelancinggig.com/blog/wp-content/uploads/2018/10/Apache-Maven-its-uses-640x360.jpeg)
+
 
 
 ## PARTICIPATED
